@@ -1,2 +1,4 @@
 this is my text file 1
 Adding line 1
+
+adding line 2 from br1
